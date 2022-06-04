@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="profile">Profile</string>
+    <string name="person_name">Ajith M</string>
+    <string name="product_name">Assist</string>
+    <string name="Team_name">Jambav</string>
+    <string name="how_to_play">how to play</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons</string>
+    <string name="red_button">RED</string>
+    <string name="blue_button">BLUE</string>
+    <string name="green_button">GREEN</string>
+</resources>

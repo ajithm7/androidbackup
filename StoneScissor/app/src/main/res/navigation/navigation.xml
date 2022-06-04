@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/game2">
+
+    <fragment
+        android:id="@+id/homePage"
+        android:name="com.example.stonescissor.HomePage"
+        android:label="fragment_home_page"
+        tools:layout="@layout/fragment_home_page" >
+        <action
+            android:id="@+id/action_homePage_to_result2"
+            app:destination="@id/result2" />
+    </fragment>
+    <fragment
+        android:id="@+id/game2"
+        android:name="com.example.stonescissor.Game"
+        android:label="Game" >
+        <action
+            android:id="@+id/action_game2_to_homePage"
+            app:destination="@id/homePage" />
+    </fragment>
+    <fragment
+        android:id="@+id/result2"
+        android:name="com.example.stonescissor.Result"
+        android:label="fragment_result"
+        tools:layout="@layout/fragment_result" />
+</navigation>

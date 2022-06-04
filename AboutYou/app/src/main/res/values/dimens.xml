@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="namesize">20sp</dimen>
+    <dimen name="smallpadding">6dp</dimen>
+    <dimen name="topmargin">16dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Profile</string>
+    <string name="name">Ajith M</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">I am Ajith from Tenkasi.
+        \n\nI have done my graduation in BE Mechanical from Rajas college of Engineering.
+\n\nMy strengths are I am a very fast learner. Hardworking with self-motivated.
+\n\nMy hobbies are outdoor gamings and listening music. I was very interested to learn new things.
+\n\nComing to family, my mom is a homemaker and father is a builder.
+\n\nMy goal is to become an entrepreneur.
+\n\nThats all about myself.
+\n\nThank you !
+        \n\nI am Ajith from Tenkasi.
+        \n\nI have done my graduation in BE Mechanical from Rajas college of Engineering.
+\n\nMy strengths are I am a very fast learner. Hardworking with self-motivated.
+\n\nMy hobbies are outdoor gamings and listening music. I was very interested to learn new things.
+\n\nComing to family, my mom is a homemaker and father is a builder.
+\n\nMy goal is to become an entrepreneur.
+\n\nThats all about myself.
+\n\nThank you !
+      </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
